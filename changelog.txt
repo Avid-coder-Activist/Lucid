@@ -1,0 +1,23 @@
+Lucid is an evolving voice assistant to assist people in
+their work. If I could get enough votes, I could re-code it
+for peoplE who have a main focus such as drawing or coding.
+The main version is just for people who want a voice assistant.
+_______________________Lucid____________________________________
+All work contained in this is mine.
+Some images were downloaded with permission from free
+clipart websites.
+Lucid is a product coded by the following:
+Avid (Henry Sommer) 
+and is owned by Mastiff Technology.
+Special thanks to the following:
+Tara Peterson
+Kristin Monzingo
+Paige Talacko
+Cory Vasek
+________________________changelog_______________________________
+6/6/2021 Lucid 1.0
+First functional version of lucid up and running.
+6/6/2021 Lucid 1.0
+Added an error function, so if the user's system is buggy,
+instead of crashing, it reports an error code so you could
+translate the code through Lucid. -Avid

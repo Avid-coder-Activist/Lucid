@@ -1,0 +1,5 @@
+1 wrong user input
+2 Problem with error module
+3 Problem with the speaking module
+4 problem reading saves
+5 problem with configurations
